@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'LLMainViewKit_Example' do
+  pod 'LLMainViewKit', :path => '../'
+
+  target 'LLMainViewKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
