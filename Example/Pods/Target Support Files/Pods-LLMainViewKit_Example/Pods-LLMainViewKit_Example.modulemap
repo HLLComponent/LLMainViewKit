@@ -1,0 +1,6 @@
+framework module Pods_LLMainViewKit_Example {
+  umbrella header "Pods-LLMainViewKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

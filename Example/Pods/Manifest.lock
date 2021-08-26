@@ -1,0 +1,16 @@
+PODS:
+  - LLMainViewKit (0.1.0)
+
+DEPENDENCIES:
+  - LLMainViewKit (from `../`)
+
+EXTERNAL SOURCES:
+  LLMainViewKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LLMainViewKit: 965276092bf9bf1cdccf69f3ce545cb2ea45edb8
+
+PODFILE CHECKSUM: 3e29584606327bd9ed701b0b1182196431af0186
+
+COCOAPODS: 1.10.1

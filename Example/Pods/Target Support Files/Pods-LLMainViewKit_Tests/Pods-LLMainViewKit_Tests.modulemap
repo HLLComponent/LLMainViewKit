@@ -1,0 +1,6 @@
+framework module Pods_LLMainViewKit_Tests {
+  umbrella header "Pods-LLMainViewKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
